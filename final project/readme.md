@@ -17,13 +17,15 @@ During testing, our system matches a single five-sentence description against a 
 
 ### Engine Flow Chart
 
-![Alt text](Reference/flow_chart.jpeg)
+<img src="Reference/flow_chart.jpeg" width="800px" />
+
 
 
 
 ### Searching Examples
-![Alt text](Reference/example1.png)
-![Alt text](Reference/example2.png)
+<img src="Reference/example1.png" width="700px"  />
+<img src="Reference/example2.png" width="700px"  />
+
 
 
 
