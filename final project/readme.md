@@ -26,8 +26,8 @@ Here is a overview of our model. For more detail, please check our
 
 
 
-### Searching Examples
-Here are two example of our searching result. Given a five sentences description, our model will return the most relevant images. 
+### Image Searching Examples
+Here are two examples of our searching result. Given a five sentences description, our model will return the most relevant images. 
 ### 
 <img src="Reference/example1.png" width="700px"  />
 <img src="Reference/example2.png" width="700px"  />
