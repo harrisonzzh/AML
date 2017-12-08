@@ -1,4 +1,4 @@
-# Large-Scale Image Search Engine
+## Large-Scale Image Search Engine
 
 Our image search engine will search for relevant images given a natural language query. For instance, if a user types "dog jumping to catch frisbee," our system will rank-order the most relevant images from a large database.
 
@@ -15,7 +15,11 @@ During testing, our system matches a single five-sentence description against a 
 * A list of tags for that image.
 * ResNet feature vectors for that image.
 
-### Engine Flow Chart
+### Model Flow Chart
+Here is a overview of our model. For more detail, please check our 
+[paper](https://github.com/harrisonzzh/CS-5785-Applied-Machine-Learning/blob/master/final%20project/Image%20search%20paper.pdf)
+
+
 
 <img src="Reference/flow_chart.jpeg" width="800px" />
 
@@ -23,6 +27,8 @@ During testing, our system matches a single five-sentence description against a 
 
 
 ### Searching Examples
+Here are two example of our searching result. Given a five sentences description, our model will return the most relevant images. 
+### 
 <img src="Reference/example1.png" width="700px"  />
 <img src="Reference/example2.png" width="700px"  />
 
