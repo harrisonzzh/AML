@@ -16,8 +16,7 @@ During testing, our system matches a single five-sentence description against a 
 * ResNet feature vectors for that image.
 
 ### Model Flow Chart
-Here is a overview of our model. For more detail, please check our 
-[paper](https://github.com/harrisonzzh/CS-5785-Applied-Machine-Learning/blob/master/final%20project/Image%20search%20paper.pdf)
+#### Here is a overview of our model. For more detail, please check our [paper](https://github.com/harrisonzzh/CS-5785-Applied-Machine-Learning/blob/master/final%20project/Image%20search%20paper.pdf)
 
 
 
